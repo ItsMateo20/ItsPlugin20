@@ -5,7 +5,7 @@ ItsPlugin20 is a plugin for minecraft servers
 ## Installation
 
 ```bash
-git clone https://github.com/ItsMateo20/ItsPlugin20/ItsPlugin20.jar
+git clone https://github.com/ItsMateo20/ItsPlugin20/blob/master/ItsPlugin20.jar
 ```
 
 ## Usage
