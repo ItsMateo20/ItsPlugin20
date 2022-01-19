@@ -1,0 +1,25 @@
+name: ItsPlugin20
+description: Warps, Custom commands and etc
+version: 1.0
+author: ItsMateo20
+main: com.itsmateo20.ItsPlugin20
+api-version: 1.17
+prefix: ItsPlugin20
+commands:
+  heal:
+    description: Heal a player!
+    aliases:
+      - h
+      - healme
+    usage: /its heal <player name>
+  feed:
+    description: Feed a player!
+    aliases:
+      - f
+      - feedme
+    usage: /its feed <player name>
+  help:
+    description: A list of commands
+    aliases:
+      - h
+    usage: /its help
